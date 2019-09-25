@@ -19,7 +19,7 @@ Crawl the flickr picture archive to get a large amount of pictures with GPS anno
 11. Longitude
 12. Latitude
 13. Accuracy
-14.Photo/video page URL
+14. Photo/video page URL
 15. Photo/video download URL
 16. License name
 17. License URL
