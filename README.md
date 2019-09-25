@@ -34,7 +34,7 @@ Crawl the flickr picture archive to get a large amount of pictures with GPS anno
 It would be best to start with a subset of the data/images and expand as progress is made.
 
 1. Transform data
-  - Add column headers
+    - Add column headers
 2. Clean data
   - Drop unwanted columns
   - Only keep instances with GPS coordinates
