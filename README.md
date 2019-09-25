@@ -1,4 +1,4 @@
-# The Task
+## The Task
 Crawl the flickr picture archive to get a large amount of pictures with GPS annotations. Now try to train a deep learning model to learn the GPS location of a picture. It could be a good idea to remove persons from the pictures automatically, but you must figure this out for yourselves. Create a visualization that shows the accuracy of your approach and/or allows to upload a picture and predicts its GPS location.
 
 ## The Data
