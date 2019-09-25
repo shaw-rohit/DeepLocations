@@ -15,5 +15,6 @@ df.columns = ["Photo/video identifier","User NSID","User nickname","Date taken",
 
 # COMMAND ----------
 
-pd.set_option('display.max_colwidth', 400)
+pd.set_option('display.max_colwidth', 200)
+pd.set_option('display.max_columns', 50)
 df.head(10)
