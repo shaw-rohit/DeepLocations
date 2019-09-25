@@ -34,6 +34,11 @@ len(df.index)
 
 # COMMAND ----------
 
+# Drop column Photos/video marker
+df = df.drop(["Photos/video marker (0 = photo, 1 = video)"], axis=1)
+
+# COMMAND ----------
+
 # Drop rows having NaN as Latitude and Longitude
 df = df.dropna(subset=["Longitude","Latitude"])
 len(df.index)
@@ -41,3 +46,8 @@ len(df.index)
 # COMMAND ----------
 
 df.head(10)
+
+# COMMAND ----------
+
+# Save dataframe as csv
+df.to_csv("/dbfs/mnt/group17/clean-0.csv", index=False)
