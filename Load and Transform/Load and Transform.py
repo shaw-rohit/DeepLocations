@@ -3,7 +3,10 @@ import pandas as pd
 
 # COMMAND ----------
 
-df = pd.read_csv("/mnt/group17/flickr/yfcc100m_dataset-0.bz2", sep="\t")
+df = pd.read_csv("/dbfs/mnt/data/flickr/yfcc100m_dataset-0.bz2", sep="\t")
+
+# COMMAND ----------
+
 df.columns = ["Photo/video identifier","User NSID","User nickname","Date taken","Date uploaded","Capture device","Title",
            "Description","User tags (comma-separated)","Machine tags (comma-separated)","Longitude","Latitude","Accuracy",
            "Photo/video page URL","Photo/video download URL","License name","License URL","Photo/video server identifier",
