@@ -36,18 +36,18 @@ It would be best to start with a subset of the data/images and expand as progres
 1. Transform data
     - Add column headers
 2. Clean data
-  - Drop unwanted columns
-  - Only keep instances with GPS coordinates
+    - Drop unwanted columns
+    - Only keep instances with GPS coordinates
 3. Implement face recognition
-  - Identify all images with faces in them
-  - Drop all such instances
+    - Identify all images with faces in them
+    - Drop all such instances
 4. Develop a deep learning model
-  - Train the model based on tags linked to the GPS coordinates
-  - Note accuracy and other metrics
-  - Improvise wherever possible
+    - Train the model based on tags linked to the GPS coordinates
+    - Note accuracy and other metrics
+    - Improvise wherever possible
 5. Test the model
-  - With a different subset of images
-  - Note accuracy and other metrics
-  - Improvise wherever possible
+    - With a different subset of images
+    - Note accuracy and other metrics
+    - Improvise wherever possible
 6. Create a fancy visualization
 7. Make it to the hall of fame (result showcase)
