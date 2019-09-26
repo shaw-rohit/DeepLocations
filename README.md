@@ -6,29 +6,29 @@ Crawl the flickr picture archive to get a large amount of pictures with GPS anno
 4571314348      47065077@N00    savagecat       2010-04-16 11:00:49.0   1272811190      Canon+EOS+400D+DIGITAL  On+the+Wall             b%26w,black+%26+white,choir+tour,hadrian%27s+wall,noir+et+blanc,portrait,sewingshields,st+george%27s,wall               -2.335453       55.010991       12      http://www.flickr.com/photos/47065077@N00/4571314348/   http://farm5.staticflickr.com/4036/4571314348_03a71b7bbb.jpg    Attribution License     http://creativecommons.org/licenses/by/2.0/     4036    5       03a71b7bbb      62ffbfb29f      jpg     0
 ```
 
-1. Photo/video identifier
-2. User NSID
-3. User nickname
-4. Date taken
-5. Date uploaded
-6. Capture device
+~~1. Photo/video identifier
+2. User NSID~~
+~~3. User nickname
+4. Date taken~~
+~~5. Date uploaded
+6. Capture device~~
 7. Title
 8. Description
 9. User tags (comma-separated)
-10. Machine tags (comma-separated)
+~~10. Machine tags (comma-separated)~~
 11. Longitude
 12. Latitude
 13. Accuracy
-14. Photo/video page URL
+~~14. Photo/video page URL~~
 15. Photo/video download URL
-16. License name
-17. License URL
-18. Photo/video server identifier
-19. Photo/video farm identifier
-20. Photo/video secret
-21. Photo/video secret original
+~~16. License name
+17. License URL~~
+~~18. Photo/video server identifier
+19. Photo/video farm identifier~~
+~~20. Photo/video secret
+21. Photo/video secret original~~
 22. Photo/video extension original
-23. Photos/video marker (0 = photo, 1 = video)
+~~23. Photos/video marker (0 = photo, 1 = video)~~
 
 ## The Steps
 It would be best to start with a subset of the data/images and expand as progress is made.
