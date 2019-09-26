@@ -23,7 +23,7 @@ Crawl the flickr picture archive to get a large amount of pictures with GPS anno
 15. Photo/video download URL
 16. ~~License name~~
 17. ~~License URL~~
-18. ~~Photo/video server identifier
+18. ~~Photo/video server identifier~~
 19. ~~Photo/video farm identifier~~
 20. ~~Photo/video secret~~
 21. ~~Photo/video secret original~~
