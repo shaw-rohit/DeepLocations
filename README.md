@@ -27,7 +27,7 @@ Crawl the flickr picture archive to get a large amount of pictures with GPS anno
 19. ~~Photo/video farm identifier~~
 20. ~~Photo/video secret~~
 21. ~~Photo/video secret original~~
-22. Photo/video extension original
+22. ~~Photo/video extension original~~
 23. ~~Photos/video marker (0 = photo, 1 = video)~~
 
 ## The Steps
