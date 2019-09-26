@@ -24,7 +24,7 @@ len(df.index)
 # Drop unwanted columns
 df = df.drop(["Photo/video identifier","User NSID","User nickname","Date taken","Date uploaded","Capture device","Machine tags (comma-separated)",
         "Photo/video page URL","License name","License URL","Photo/video server identifier","Photo/video farm identifier","Photo/video secret",
-         "Photo/video secret original"], axis=1)
+         "Photo/video secret original","Photo/video extension original"], axis=1)
 
 # COMMAND ----------
 
