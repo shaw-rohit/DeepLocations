@@ -9,7 +9,7 @@ Crawl the flickr picture archive to get a large amount of pictures with GPS anno
 1. ~~Photo/video identifier~~
 2. ~~User NSID~~
 3. ~~User nickname~~
-4. ~~Date taken~~
+4. Date taken
 5. ~~Date uploaded~~
 6. ~~Capture device~~
 7. Title
